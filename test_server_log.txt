@@ -1,2 +1,0 @@
-00:20  Email spoof attempt from test_server
-Origin IP: 192.168.5.50
