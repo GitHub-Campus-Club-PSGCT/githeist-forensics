@@ -1,6 +1,5 @@
-00:05  Richitha accessed CFO Terminal
-00:08  Shaswanth performing IT maintenance
-00:12  Vishal USB activity detected
-00:13  *CORRUPTED LINE*
-00:15  Abbilash commit corrupted
-00:17  Darshan deleted multiple server logs
+Timestamp                Event
+2025-09-01 00:12:00      Vishal accessed Treasury USB
+2025-09-01 00:13:00      /mnt/cakebox mounted
+2025-09-01 00:14:00      User Abbilash commit executed
+2025-09-01 00:15:00      *LOG CORRUPTED*
