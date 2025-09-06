@@ -1,5 +1,3 @@
-This repository contains forensic artifacts from the CyberHeist incident
-
-<img width="521" height="517" alt="image" src="https://github.com/user-attachments/assets/2a3c16db-4438-4cbc-aaeb-e18ffae6966e" />
-
+# This repository contains forensic artifacts from the CyberHeist incident #
 Investigate to uncover inconsistencies.
+<img width="512" height="461" alt="image" src="https://github.com/user-attachments/assets/29eed3ea-3aa3-44eb-86fb-0ea3971e9ae9" />
