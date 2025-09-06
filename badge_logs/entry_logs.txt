@@ -1,0 +1,16 @@
+Name        | BadgeID | Location        | Timestamp
+-------------------------------------------------------------
+Richitha    | 221     | Lobby           | 2023-09-11 23:58:03
+Shaswanth   | 225     | Server Room     | 2023-09-11 23:59:12
+Vishal      | 228     | Treasury Wing   | 2023-09-12 00:00:08
+Abbilash    | 229     | DevOps Lab      | 2023-09-12 00:01:10
+Thejas      | 230     | Treasury Wing   | 2023-09-12 00:02:31
+Rizvi       | 233     | 2F Work Bay     | 2023-09-12 00:03:15
+Kanishka    | 222     | CFO Office      | 2023-09-12 00:04:42
+Darshan     | 226     | Test Server Lab | 2023-09-12 00:05:10
+Thejas      | 230     | Treasury Wing   | 2023-09-12 00:05:11   
+Dhaarun     | 231     | Records Room    | 2023-09-12 00:06:18
+Jayasurya   | 227     | IT Bay          | 2023-09-12 00:07:22
+Manikandan  | 240     | Pantry          | 2023-09-12 00:08:00
+Deepika     | 241     | HR Cabin        | 2023-09-12 00:09:10
+Kanishka    | 222     | CFO Office      | 2023-09-12 00:12:30
