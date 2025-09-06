@@ -1,0 +1,7 @@
+Event                          | User       | Details                        | Timestamp
+-------------------------------------------------------------------------------------------
+Cronjob Executed               | Jayasurya  | cronjob_start.sh triggered      | 2023-09-12 00:09:55
+Script Launched                | Jayasurya  | funds_transfer.py started       | 2023-09-12 00:10:00
+User Login                     | Darshan    | Test server access              | 2023-09-12 00:12:45
+Unauthorized Override          | Unknown    | Treasury node override detected | 2023-09-12 00:13:10
+File Deletion Request          | Darshan    | 7 server logs targeted          | 2023-09-12 00:14:44
