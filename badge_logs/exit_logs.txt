@@ -1,12 +1,21 @@
-Name        | BadgeID | Location        | Timestamp
+Name        | BadgeID | Location      | Timestamp
 -------------------------------------------------------------
-Richitha    | 221     | CFO Office      | 2023-09-12 00:10:45
-Vishal      | 228     | Treasury Wing   | 2023-09-12 00:11:32
-Shaswanth   | 225     | Server Room     | 2023-09-12 00:12:00
-Kanishka    | 222     | CFO Office      | 2023-09-12 00:12:40
-Thejas      | 230     | Lobby           | 2023-09-12 00:13:02
-Rizvi       | 233     | 2F Work Bay     | 2023-09-12 00:14:14
-Manikandan  | 240     | Pantry          | 2023-09-12 00:15:00
-Darshan     | 226     | Test Server Lab | 2023-09-12 00:15:40
-Abbilash    | 229     | DevOps Lab      | 2023-09-12 00:16:20
-Deepika     | 241     | HR Cabin        | 2023-09-12 00:17:45
+Richitha    | 221 | CFO Office        | 2023-08-29 00:06:30
+Shaswanth   | 225 | Server Room       | 2023-08-29 00:09:30
+Vishal      | 228 | Treasury Wing     | 2023-08-29 00:12:00
+Abbilash    | 229 | DevOps Lab        | 2023-08-29 00:14:00
+Thejas      | 230 | Treasury Wing     | 2023-08-29 00:16:00
+Rizvi       | 233 | 2F Work Bay       | 2023-08-29 00:22:00
+Kanishka    | 222 | CFO Office        | 2023-08-29 00:13:30
+Darshan     | 226 | Server Room Lab   | 2023-08-29 00:18:30
+Thejas      | 230 | Treasury Wing     | 2023-08-29 00:16:01  
+Dhaarun     | 231 | Records Room      | 2023-08-29 00:19:30
+Jayasurya   | 227 | Dev Floor         | 2023-08-29 00:11:30  
+Manikandan  | 240 | Pantry            | 2023-08-29 00:07:00
+Deepika     | 241 | HR Cabin          | 2023-08-29 00:10:15
+Anitha      | 242 | HR Office         | 2023-08-29 00:08:30
+Pradeep     | 243 | Cafeteria         | 2023-08-29 00:09:00
+Meena       | 244 | Reception         | 2023-08-29 00:05:30
+Rohit       | 245 | Finance Desk      | 2023-08-29 00:12:30
+Tejas       | 246 | Security Lobby    | 2023-08-29 00:14:45
+Shashwath   | 247 | Test Server Lab   | 2023-08-29 00:15:50
