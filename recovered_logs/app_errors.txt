@@ -1,0 +1,6 @@
+Error                          | Source     | Details                        | Timestamp
+-------------------------------------------------------------------------------------------
+OTP Mismatch                   | Auth Sys   | OTP rerouted to external device | 2023-09-12 00:13:50
+Checksum Failure               | Treasury   | Integrity check failed          | 2023-09-12 00:14:05
+Transaction Log Missing        | Treasury   | Pointer not found               | 2023-09-12 00:14:20
+Packet Loss Detected           | CCTV       | Stream corrupted                | 2023-09-12 00:15:00
