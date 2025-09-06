@@ -1,0 +1,8 @@
+Name        | BadgeID | Location        | Timestamp
+-------------------------------------------------------------
+Thejas      | 230     | Treasury Floor  | 2023-09-12 00:05:44
+Thejas      | 230     | Treasury Floor  | 2023-09-12 00:05:45   
+Kanishka    | 222     | Treasury Floor  | 2023-09-12 00:07:30
+Shaswanth   | 225     | Server Floor    | 2023-09-12 00:08:55
+Vishal      | 228     | Treasury Floor  | 2023-09-12 00:09:40
+Dhaarun     | 231     | Records Floor   | 2023-09-12 00:11:00
