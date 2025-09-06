@@ -1,4 +1,4 @@
-Name        | BadgeID | Location      | Timestamp
+Name        | BadgeID | Location        | Timestamp
 -------------------------------------------------------------
 Richitha      | 221 | CFO Office        | 2025-08-29 00:05:00
 Shaswanth     | 225 | Server Room       | 2025-08-29 00:06:15
