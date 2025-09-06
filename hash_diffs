@@ -1,5 +1,0 @@
-| File                    | OriginalHash | CurrentHash | Status   |
-| ----------------------- | ------------ | ----------- | -------- |
-| cctv\_treasury\_001.mp4 | aa11bb22     | cc33dd44    | MISMATCH |
-| recovered\_log.txt      | 1a2b3c4d     | 9f8e7d6c    | MISMATCH |
-| badge\_logs.csv         | 11223344     | 11223344    | OK       |
