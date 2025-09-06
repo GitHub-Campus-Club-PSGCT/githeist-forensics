@@ -1,0 +1,7 @@
+Event                          | User       | Details                        | Timestamp
+-------------------------------------------------------------------------------------------
+USB Mount                      | System     | Mounted at /mnt/cakebox        | 2023-09-12 00:13:43
+Authentication Success         | Thejas     | Treasury access confirmed      | 2023-09-12 00:14:00
+Funds Transfer Initiation      | System     | Amount: 50,00,00,000.00        | 2023-09-12 00:14:12
+Checksum Mismatch              | CCTV       | Feed integrity compromised     | 2023-09-12 00:15:05
+Log Corruption Detected        | System     | Unexpected termination         | 2023-09-12 00:16:20
