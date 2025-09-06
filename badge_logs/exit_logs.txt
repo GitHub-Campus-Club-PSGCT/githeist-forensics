@@ -5,12 +5,12 @@ Shaswanth   | 225 | Server Room       | 2023-08-29 00:09:30
 Vishal      | 228 | Treasury Wing     | 2023-08-29 00:12:00
 Abbilash    | 229 | DevOps Lab        | 2023-08-29 00:14:00
 Thejas      | 230 | Treasury Wing     | 2023-08-29 00:16:00
-Rizvi       | 233 | 2F Work Bay       | 2023-08-29 00:22:00
+Thejas      | 230 | Treasury Wing     | 2023-08-29 00:16:01
 Kanishka    | 222 | CFO Office        | 2023-08-29 00:13:30
 Darshan     | 226 | Server Room Lab   | 2023-08-29 00:18:30
-Thejas      | 230 | Treasury Wing     | 2023-08-29 00:16:01  
 Dhaarun     | 231 | Records Room      | 2023-08-29 00:19:30
-Jayasurya   | 227 | Dev Floor         | 2023-08-29 00:11:30  
+Jayasurya   | 227 | Dev Floor / IT Bay| 2023-08-29 00:11:30
+Rizvi       | 233 | 2F Work Bay       | 2023-08-29 00:22:00
 Manikandan  | 240 | Pantry            | 2023-08-29 00:07:00
 Deepika     | 241 | HR Cabin          | 2023-08-29 00:10:15
 Anitha      | 242 | HR Office         | 2023-08-29 00:08:30
