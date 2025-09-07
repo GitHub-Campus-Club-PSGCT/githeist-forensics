@@ -5,7 +5,6 @@ Shaswanth     | 225 | Server Room       | 2025-08-29 00:09:00
 Vishal        | 228 | Treasury Wing     | 2025-08-29 00:12:00
 Abbilash      | 229 | DevOps Lab        | 2025-08-29 00:13:30
 Thejas        | 230 | Treasury Wing     | 2025-08-29 00:16:00
-Thejas        | 230 | Treasury Wing     | 2025-08-29 00:16:01  
 Kanishka      | 222 | CFO Office        | 2025-08-29 00:13:30
 Darshan       | 226 | Test Server Lab   | 2025-08-29 00:18:30
 Dhaarun       | 231 | Records Room      | 2025-08-29 00:19:30
