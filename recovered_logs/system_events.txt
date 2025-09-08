@@ -1,8 +1,0 @@
-Event                   | Source     | Details                     | Timestamp
---------------------------------------------------------------------------------
-Cron Job Executed       | System     | Scheduled script ran        | 2025-08-30 00:07:00
-OTP Request             | CFO-Term   | Token validation triggered  | 2025-08-30 00:07:10
-USB Audit Flagged       | Security   | Unknown device connected    | 2025-08-30 00:13:45
-Badge Alert             | Treasury   | Two swipes, same ID         | 2025-08-30 00:05:45
-CCTV Loop Detected      | Monitor    | Frame repeat at 00:16       | 2025-08-30 00:16:02
-Log Rotation Error      | Server     | Incomplete cleanup cycle    | 2025-08-30 00:17:05

@@ -1,9 +1,0 @@
-Event                     | User     | Details                     | Timestamp
---------------------------------------------------------------------------------
-USB Mount                 | System   | Mounted at /mnt/hiddenbox   | 2025-08-30 00:04:42
-Badge Auth                | Treasury | Access granted              | 2025-08-30 00:05:11
-Duplicate Badge Detected   | Security | Same ID active twice        | 2025-08-30 00:05:44
-Script Execution          | System   | funds_transfer.py launched  | 2025-08-30 00:07:22
-Funds Transfer Initiation | System   | Amount: 50Cr                | 2025-08-30 00:16:00
-CCTV Checksum Mismatch    | CCTV     | Feed compromised            | 2025-08-30 00:16:05
-Log Cleanup Triggered     | System   | Deletion script active      | 2025-08-30 00:17:10
